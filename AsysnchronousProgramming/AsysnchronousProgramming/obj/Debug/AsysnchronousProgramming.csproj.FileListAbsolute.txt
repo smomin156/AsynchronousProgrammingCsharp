@@ -1,0 +1,7 @@
+C:\TRAINING\AsysnchronousProgramming\AsysnchronousProgramming\bin\Debug\AsysnchronousProgramming.exe.config
+C:\TRAINING\AsysnchronousProgramming\AsysnchronousProgramming\bin\Debug\AsysnchronousProgramming.exe
+C:\TRAINING\AsysnchronousProgramming\AsysnchronousProgramming\bin\Debug\AsysnchronousProgramming.pdb
+C:\TRAINING\AsysnchronousProgramming\AsysnchronousProgramming\obj\Debug\AsysnchronousProgramming.csproj.AssemblyReference.cache
+C:\TRAINING\AsysnchronousProgramming\AsysnchronousProgramming\obj\Debug\AsysnchronousProgramming.csproj.CoreCompileInputs.cache
+C:\TRAINING\AsysnchronousProgramming\AsysnchronousProgramming\obj\Debug\AsysnchronousProgramming.exe
+C:\TRAINING\AsysnchronousProgramming\AsysnchronousProgramming\obj\Debug\AsysnchronousProgramming.pdb
